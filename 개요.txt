@@ -1,0 +1,8 @@
+회원가입 + 로그인(mongoDB)
+질문창 -> 받는창
+내가 한 질문 -> 마이페이지
+chatGPT API
+mongoDB연결
+boostrap
+메뉴 -> 로그인, 질문창, 마이페이지, 메인
+spring crud, front-back 통신, NoSQL, chatGPT
